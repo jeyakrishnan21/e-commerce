@@ -1,0 +1,17 @@
+#header{
+   /* display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: #dde3fd;
+    box-shadow: 0 5PX 15px rgba(0, 0,0, 0.6);
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;*/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
